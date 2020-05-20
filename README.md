@@ -1,3 +1,4 @@
-Zyel's example file thing messing with it ya know. my first repository and command line 
-delete the stuff add more thins
+#About Me
+
+ this is my about me project  It is not *everything about me but its some 
 
